@@ -20,3 +20,4 @@ export class Sale {
   @Column({ default: true })
   isActive: boolean;
 }
+// 2819
